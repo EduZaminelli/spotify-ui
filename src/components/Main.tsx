@@ -3,7 +3,7 @@ import Image from 'next/image';
 
 export function Main (){
     return(
-        <main className="flex-1 p-6">
+        <main className="bg-gradient-to-b from-green-950 to-black flex-1 p-6">
           <div className='flex items-center gap-4'>
             <button className='p-1 rounded-full bg-black/40'>
               <ChevronLeft/>
