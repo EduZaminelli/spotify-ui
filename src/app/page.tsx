@@ -1,5 +1,5 @@
-import { Sidebar } from '@/components/sidebar';
-import { Footer } from '@/components/footer';
+import { Sidebar } from '@/components/Sidebar';
+import { Footer } from '@/components/Footer';
 import { Main } from '@/components/Main';
 
 export default function Home() {
